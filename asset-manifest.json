@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/GwynB.PortfolioWeb/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/GwynB.PortfolioWeb/static/js/main.4ddbbbf3.chunk.js",
-    "main.js.map": "/GwynB.PortfolioWeb/static/js/main.4ddbbbf3.chunk.js.map",
-    "runtime-main.js": "/GwynB.PortfolioWeb/static/js/runtime-main.c25a6b72.js",
-    "runtime-main.js.map": "/GwynB.PortfolioWeb/static/js/runtime-main.c25a6b72.js.map",
-    "static/js/2.2df27154.chunk.js": "/GwynB.PortfolioWeb/static/js/2.2df27154.chunk.js",
-    "static/js/2.2df27154.chunk.js.map": "/GwynB.PortfolioWeb/static/js/2.2df27154.chunk.js.map",
-    "static/js/3.4962276b.chunk.js": "/GwynB.PortfolioWeb/static/js/3.4962276b.chunk.js",
-    "static/js/3.4962276b.chunk.js.map": "/GwynB.PortfolioWeb/static/js/3.4962276b.chunk.js.map",
-    "index.html": "/GwynB.PortfolioWeb/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/GwynB.PortfolioWeb/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.2df27154.chunk.js.LICENSE.txt": "/GwynB.PortfolioWeb/static/js/2.2df27154.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/GwynB.PortfolioWeb/static/media/logo.6ce24c58.svg"
+    "main.css": "/GwynB/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/GwynB/static/js/main.a5c4e094.chunk.js",
+    "main.js.map": "/GwynB/static/js/main.a5c4e094.chunk.js.map",
+    "runtime-main.js": "/GwynB/static/js/runtime-main.a3647c91.js",
+    "runtime-main.js.map": "/GwynB/static/js/runtime-main.a3647c91.js.map",
+    "static/js/2.2df27154.chunk.js": "/GwynB/static/js/2.2df27154.chunk.js",
+    "static/js/2.2df27154.chunk.js.map": "/GwynB/static/js/2.2df27154.chunk.js.map",
+    "static/js/3.4962276b.chunk.js": "/GwynB/static/js/3.4962276b.chunk.js",
+    "static/js/3.4962276b.chunk.js.map": "/GwynB/static/js/3.4962276b.chunk.js.map",
+    "index.html": "/GwynB/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/GwynB/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.2df27154.chunk.js.LICENSE.txt": "/GwynB/static/js/2.2df27154.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/GwynB/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c25a6b72.js",
+    "static/js/runtime-main.a3647c91.js",
     "static/js/2.2df27154.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.4ddbbbf3.chunk.js"
+    "static/js/main.a5c4e094.chunk.js"
   ]
 }
